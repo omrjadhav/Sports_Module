@@ -1,0 +1,243 @@
+[
+    {
+      "team": "Mumbai Indians",
+      "year": 2023,
+      "players": [
+        {
+          "name": "Rohit Sharma",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 213,
+          "runs": 5879,
+          "best_performance": "109*"
+        },
+        {
+          "name": "Jasprit Bumrah",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 120,
+          "runs": 40,
+          "best_performance": "5/14"
+        },
+        {
+          "name": "Kieron Pollard",
+          "role": "All-rounder",
+          "image": "URL_to_image",
+          "matches": 189,
+          "runs": 3412,
+          "best_performance": "87*"
+        }
+      ]
+    },
+    {
+      "team": "Chennai Super Kings",
+      "year": 2023,
+      "players": [
+        {
+          "name": "MS Dhoni",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 229,
+          "runs": 5031,
+          "best_performance": "84*"
+        },
+        {
+          "name": "Ravindra Jadeja",
+          "role": "All-rounder",
+          "image": "URL_to_image",
+          "matches": 210,
+          "runs": 2502,
+          "best_performance": "62*"
+        },
+        {
+          "name": "Deepak Chahar",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 70,
+          "runs": 15,
+          "best_performance": "4/13"
+        }
+      ]
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "year": 2023,
+      "players": [
+        {
+          "name": "Virat Kohli",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 223,
+          "runs": 6624,
+          "best_performance": "122*"
+        },
+        {
+          "name": "AB de Villiers",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 184,
+          "runs": 5162,
+          "best_performance": "133*"
+        },
+        {
+          "name": "Yuzvendra Chahal",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 100,
+          "runs": 5,
+          "best_performance": "4/25"
+        }
+      ]
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "year": 2023,
+      "players": [
+        {
+          "name": "Andre Russell",
+          "role": "All-rounder",
+          "image": "URL_to_image",
+          "matches": 94,
+          "runs": 1743,
+          "best_performance": "80*"
+        },
+        {
+          "name": "Sunil Narine",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 140,
+          "runs": 892,
+          "best_performance": "5/19"
+        },
+        {
+          "name": "Shubman Gill",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 58,
+          "runs": 1417,
+          "best_performance": "76"
+        }
+      ]
+    },
+    {
+      "team": "Delhi Capitals",
+      "year": 2023,
+      "players": [
+        {
+          "name": "Rishabh Pant",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 84,
+          "runs": 2498,
+          "best_performance": "128*"
+        },
+        {
+          "name": "Kagiso Rabada",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 49,
+          "runs": 28,
+          "best_performance": "4/21"
+        },
+        {
+          "name": "Axar Patel",
+          "role": "All-rounder",
+          "image": "URL_to_image",
+          "matches": 97,
+          "runs": 913,
+          "best_performance": "38*"
+        }
+      ]
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "year": 2023,
+      "players": [
+        {
+          "name": "David Warner",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 142,
+          "runs": 5449,
+          "best_performance": "126"
+        },
+        {
+          "name": "Bhuvneshwar Kumar",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 132,
+          "runs": 22,
+          "best_performance": "5/19"
+        },
+        {
+          "name": "Rashid Khan",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 62,
+          "runs": 106,
+          "best_performance": "3/19"
+        }
+      ]
+    },
+    {
+      "team": "Rajasthan Royals",
+      "year": 2023,
+      "players": [
+        {
+          "name": "Sanju Samson",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 107,
+          "runs": 2584,
+          "best_performance": "119"
+        },
+        {
+          "name": "Ben Stokes",
+          "role": "All-rounder",
+          "image": "URL_to_image",
+          "matches": 42,
+          "runs": 920,
+          "best_performance": "107*"
+        },
+        {
+          "name": "Jofra Archer",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 35,
+          "runs": 195,
+          "best_performance": "3/15"
+        }
+      ]
+    },
+    {
+      "team": "Punjab Kings",
+      "year": 2023,
+      "players": [
+        {
+          "name": "KL Rahul",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 88,
+          "runs": 3273,
+          "best_performance": "132*"
+        },
+        {
+          "name": "Mohammed Shami",
+          "role": "Bowler",
+          "image": "URL_to_image",
+          "matches": 71,
+          "runs": 50,
+          "best_performance": "3/15"
+        },
+        {
+          "name": "Chris Gayle",
+          "role": "Batsman",
+          "image": "URL_to_image",
+          "matches": 140,
+          "runs": 4965,
+          "best_performance": "175*"
+        }
+      ]
+    }
+  ]
+  
